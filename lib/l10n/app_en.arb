@@ -1,0 +1,16 @@
+{
+  "title": "Settings",
+  "language": "Language",
+  "enableCustomTheme": "Enable custom theme",
+  "english": "English",
+  "japanese": "Japanese",
+  "articleManage": "ArticleManage",
+  "favorite": "Favorite",
+  "version": "version",
+  "historyArticles": "historyArticles",
+  "notFoundFavoriteArticles": "Not Found Favorite Articles",
+  "screenBack": "Return to Previous Screen",
+  "latestArticles": "Latest Articles",
+  "searchArticlesPage": "Search Articles Page",
+  "searchHintText": "Input Search Keyword!"
+}

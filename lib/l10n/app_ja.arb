@@ -1,0 +1,16 @@
+{
+  "title": "設定",
+  "language": "言語",
+  "enableCustomTheme": "カスタムテーマを有効にする",
+  "english": "英語",
+  "japanese": "日本語",
+  "articleManage": "記事管理",
+  "favorite": "お気に入り",
+  "version": "バージョン",
+  "historyArticles": "閲覧履歴",
+  "notFoundFavoriteArticles": "お気に入り記事がありません",
+  "screenBack": "前の画面に戻る",
+  "latestArticles": "最新記事",
+  "searchArticlesPage": "記事検索",
+  "searchHintText": "検索したい記事を入力しよう"
+}
